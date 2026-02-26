@@ -11,3 +11,9 @@ Explainable machine learning analysis identifying environmental and socioeconomi
 
 3. Open the notebook:
    jupyter notebook AD_XAI_02152026.ipynb
+
+## Data Availability
+
+The Alzheimer’s disease prevalence estimates and EPA Environmental Quality Index (EQI) variables are not included in this repository. 
+
+Users must obtain the data from the original public sources described in the manuscript.
